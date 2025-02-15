@@ -1,0 +1,15 @@
+D:\VS22\project\SystemTaskManager\bin\Debug\net8.0\SystemTaskManager.exe
+D:\VS22\project\SystemTaskManager\bin\Debug\net8.0\SystemTaskManager.deps.json
+D:\VS22\project\SystemTaskManager\bin\Debug\net8.0\SystemTaskManager.runtimeconfig.json
+D:\VS22\project\SystemTaskManager\bin\Debug\net8.0\SystemTaskManager.dll
+D:\VS22\project\SystemTaskManager\bin\Debug\net8.0\SystemTaskManager.pdb
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.AssemblyInfoInputs.cache
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.AssemblyInfo.cs
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.csproj.CoreCompileInputs.cache
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.sourcelink.json
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.dll
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\refint\SystemTaskManager.dll
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.pdb
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\SystemTaskManager.genruntimeconfig.cache
+D:\VS22\project\SystemTaskManager\obj\Debug\net8.0\ref\SystemTaskManager.dll
